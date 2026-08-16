@@ -1,44 +1,40 @@
 # 👋 Hi, I'm Atharva Patil
 
-### ☁️ Aspiring DevOps & Cloud Engineer
+## ☁️ Aspiring DevOps & Cloud Engineer
 
-I’m a B.E. Information Technology graduate building hands-on experience in **Cloud, DevOps, automation, and infrastructure**.
+I'm an Information Technology graduate focused on building practical skills in **AWS, Linux, DevOps, automation, and cloud infrastructure**.
 
-I enjoy turning concepts into practical projects — from deploying applications on AWS and managing Linux infrastructure to exploring containers, CI/CD, Kubernetes, Infrastructure as Code, and monitoring.
+I learn by building — deploying applications, managing infrastructure, automating workflows, and gradually moving toward **CI/CD, containers, Kubernetes, Infrastructure as Code, and observability**.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.E. Information Technology
-* ☁️ Building hands-on experience with **AWS & Cloud Engineering**
-* 🐧 Working with **Linux, Bash & Git**
-* ⚙️ Learning and building with **Docker, Kubernetes & Terraform**
-* 🔄 Exploring **CI/CD, automation & DevOps practices**
-* 🐍 Using **Python** for scripting and automation
-* 🏗️ Building practical projects instead of learning only through theory
-* 📍 Mumbai, India
+- 🎓 B.E. in Information Technology
+- ☁️ Building hands-on experience with **AWS & Cloud Infrastructure**
+- 🐧 Working with **Linux, Bash & Git**
+- ⚙️ Learning **CI/CD, Docker, Kubernetes & Terraform**
+- 📊 Exploring **Monitoring & Observability**
+- 🐍 Using **Python for scripting and automation**
+- 🛠️ Turning concepts into **practical projects**
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-Cloud Infrastructure
-        ↓
-Linux & Automation
-        ↓
-Git & GitHub
-        ↓
-CI/CD
-        ↓
-Docker
-        ↓
-Kubernetes
-        ↓
-Terraform
-        ↓
-Monitoring & Observability
+> **Building → Automating → Deploying → Monitoring**
+
+Currently focused on:
+
+- ☁️ AWS & Cloud Infrastructure
+- 🐧 Linux & Bash Automation
+- 🔄 CI/CD
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🏗️ Terraform
+- 📊 Monitoring & Observability
+
+I'm turning each concept I learn into hands-on work rather than stopping at theory.
 ```
 
 I'm currently focused on building a strong foundation in **AWS and DevOps**, while turning each concept I learn into hands-on work.
@@ -91,43 +87,27 @@ A hands-on AWS project focused on deploying and managing a web application while
 
 ---
 
-### 🔧 More Projects Coming Soon
-
-I'm continuously building projects around:
-
-* AWS Cloud Infrastructure
-* CI/CD Pipelines
-* Dockerized Applications
-* Kubernetes Deployments
-* Terraform Infrastructure
-* Monitoring & Observability
-* DevOps Automation
-
----
 
 ## 🧭 My DevOps Learning Journey
 
 ```text
-🐧 Linux
-   ↓
-📜 Bash Scripting
-   ↓
-🔀 Git & GitHub
-   ↓
-☁️ AWS
-   ↓
-🔄 CI/CD
-   ↓
-🐳 Docker
-   ↓
-☸️ Kubernetes
-   ↓
-🏗️ Terraform
-   ↓
-📊 Monitoring & Observability
-```
-
-> Learn → Build → Automate → Deploy → Monitor → Improve
+Linux
+  ↓
+Bash Scripting
+  ↓
+Git & GitHub
+  ↓
+AWS
+  ↓
+CI/CD
+  ↓
+Docker
+  ↓
+Kubernetes
+  ↓
+Terraform
+  ↓
+Monitoring & Observability
 
 ---
 
