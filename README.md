@@ -131,11 +131,12 @@ I'm continuously building projects around:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharva101010\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva101010\&layout=compact\&theme=github_dark\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharva101010&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva101010&layout=compact&theme=dark&hide_border=true" height="170"/>
+</p>
 
 ---
 
